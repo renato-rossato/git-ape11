@@ -26,7 +26,7 @@ Checkout: normalmente é usado para denominar o primeiro download de um módulo 
 R: Uma das principais vantagens está relacionado a distribuição do processamento, acarretando vantagens em termos de redundância e/ou replicação de repositórios e permitindo alargar as possibilidades de colaboração e parceria entre programadores. Para esses as melhorias são : Rapidez, Autonomia, Ramos individuais, Facilidade na Fusão. Nos termos de Gestão/Coordenação tem a confiabilidade, redução de custos com o servidor.
 
 5. Qual a importância da utilização do controle de versionamento no desenvolvimento de um software?
-
+R: O processo de versionamento permite a proteção do código-fonte do sistema. Já o sequenciamento lógico das atualizações serve como registro histórico para a análise dos erros e ataques sofridos, o que possibilita também a reformulação dos sistemas para versões mais robustas. Na hora de realizar uma alteração ou manutenção é mais fácil alterar e corrigir o problema.
 
 6.  Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.
 
