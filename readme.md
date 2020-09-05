@@ -23,7 +23,7 @@ Checkout: normalmente é usado para denominar o primeiro download de um módulo 
 
 
 4. Quais as vantagens do Git?
-
+R: Uma das principais vantagens está relacionado a distribuição do processamento, acarretando vantagens em termos de redundância e/ou replicação de repositórios e permitindo alargar as possibilidades de colaboração e parceria entre programadores. Para esses as melhorias são : Rapidez, Autonomia, Ramos individuais, Facilidade na Fusão. Nos termos de Gestão/Coordenação tem a confiabilidade, redução de custos com o servidor.
 
 5. Qual a importância da utilização do controle de versionamento no desenvolvimento de um software?
 
