@@ -18,6 +18,8 @@ Isso significa que você pode comparar o número da versão de qualquer software
 
 
 3. Por que utilizar o Git como controle de versionamento?
+R: Por ser versátil o sistema pode ajudar em grande parte do projeto, possui diversas ferramentas que podem ser utilizadas, pelo motivo de possuir fluxos alternativos e de permitir a livre edição de arquivos somente-texto entre várias pessoas do mesmo time ao mesmo tempo. Possui os comandos que são muito utilizados como a lista a seguir:
+Checkout: normalmente é usado para denominar o primeiro download de um módulo inteiro a partir do repositório CVS. Commit: envio das modificações feitas pelo usuário ao repositório CVS. Export: é o download de um módulo inteiro a partir de um repositório CVS, sem os arquivos administrativos CVS. Módulos exportados não ficam sob controle do CVS. Import: geralmente é usado para designar a criação de um módulo inteiro dentro de um repositório CVS através do upload de uma estrutura de diretórios. Update: atualização da cópia local do trabalho através do download das modificações feitas por outros usuários no repositório. Merge: é a fusão de modificações feitas por diferentes usuários na cópia local de um mesmo arquivo. Sempre que alguém altera o código, é necessário realizar um update antes do commit, de modo que seja feito o merge — ou a fusão — das mudanças. Utiliza uma arquitetura cliente-servidor em que todo o código é centralizado. Ideal para desenvolvimento linear, cujos projetos estejam em fase de manutenção ou pequenos melhoramentos.
 
 
 4. Quais as vantagens do Git?
