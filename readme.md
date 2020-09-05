@@ -12,6 +12,9 @@ Além disso, o Git nos ajuda muito a controlar o fluxo de novas funcionalidades 
 
 
 2. O que é versionamento de software?
+R: O versionamento de software é um processo de controle de versões estabelecido por meio de numerações diferentes. Isso permite que os programadores saibam quando e quais alterações foram realizadas, acompanhando as mudanças aplicadas no software. Além disso, permite que os usuários finais identifiquem as novidades e reconheçam as versões mais atualizadas.
+Para o versionamento, pode-se atribuir um número único ou um conjunto deles para especificar a versão utilizada de um programa de software, arquivo, firmware, driver de dispositivo ou mesmo hardware. À medida que as edições e atualizações vão sendo implementadas no programa, o número da versão deve aumentar.
+Isso significa que você pode comparar o número da versão de qualquer software instalado no seu computador ou dispositivo móvel com o número da versão mais atualizada disponível atualmente e fazer um update para usar a versão mais nova.
 
 
 3. Por que utilizar o Git como controle de versionamento?
